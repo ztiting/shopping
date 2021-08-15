@@ -177,7 +177,7 @@
       },
 
       /**
-       * 网络请求相关方法
+       * 网络请求相关方法（）
        */
       getHomeMultiInfo(){
         getHomeMultidata().then( res => {
