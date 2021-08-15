@@ -14,6 +14,7 @@ export default {
   name: 'app',
   components: {
     MainTabBar,
+    //345
   },
 }
 </script>
