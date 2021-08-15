@@ -25,6 +25,8 @@ Vue.use(toast)
 //解决移动端300ms延迟问题(test)
 FastClick.attach(document.body)
 
+//11
+
 //使用图片懒加载的图片
 Vue.use(VueLazyload)
 
